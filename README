@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FNominatim.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FNominatim?ref=badge_shield)
+
 Nominatim
 =========
 
@@ -55,3 +57,7 @@ http://lists.openstreetmap.org/listinfo/geocoding
 
 Bugs may be reported on the github project site:
 https://github.com/twain47/Nominatim
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FNominatim.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FNominatim?ref=badge_large)
